@@ -9,4 +9,4 @@ If there are more than two numbers on the first line of output (number of sequen
 
 From terminal:
 
-$ python fastaToPhylip.py your.fasta
+python fastaToPhylip.py your.fasta
