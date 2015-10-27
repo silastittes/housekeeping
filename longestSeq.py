@@ -30,7 +30,7 @@ for line in cFile:
 size.append(len(cSeq.strip())) #grab the last very last sequence
 seq.append(cSeq.strip())
 
-maxInd = seq.index(max(seq))
+maxInd = size.index(max(size))
 print names[maxInd]
 print seq[maxInd]
 
