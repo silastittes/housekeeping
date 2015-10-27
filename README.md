@@ -24,3 +24,10 @@ Terminal usage:
 ```bash
 python unwrapFasta.py <your.fasta>
 ```
+
+longestSeq returns the name and sequence of the longest sequence in a fasta
+
+Terminal usage:
+```bash
+python longestSeq.py <your.fasta>
+```
