@@ -12,7 +12,8 @@ From terminal:
 python fastaToPhylip.py <your.fasta>
 ```
 countSeq returns a table of sequence lengths
-from terminal
+
+From terminal:
 ```bash
 python counSeq.py <your.fasta>
 ```
