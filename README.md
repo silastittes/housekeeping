@@ -1,5 +1,5 @@
 # housekeeping
-various bioinformatics scripts for converting file types and other mundane tasks to run in the terminal
+various bioinformatics scripts for converting file types and other mundane tasks from the command line. Most scripts print to screen.
 
 SCRIPTS AND THEIR USAGE
 ---
