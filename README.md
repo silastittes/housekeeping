@@ -8,5 +8,11 @@ fastaToPhylip converts fasta format to "pseudo" phylip (doesn't follow name conv
 If there are more than two numbers on the first line of output (number of sequences and sequence lengths), some of the sequences of the infile differ in length, which is a problem you should fix.
 
 From terminal:
-
-python fastaToPhylip.py your.fasta
+```bash
+python fastaToPhylip.py <your.fasta>
+```
+countSeq returns a table of sequence lengths
+from terminal
+```bash
+python counSeq.py <your.fasta>
+```
